@@ -5,6 +5,7 @@
 | name | description | 
 | ---- | ----------- |
 |[RemoteCLIP](https://github.com/ChenDelong1999/RemoteCLIP)<a href='https://github.com/ChenDelong1999/RemoteCLIP'><img src='https://img.shields.io/github/stars/ChenDelong1999/RemoteCLIP?style=social' /></a> | A Vision Language Foundation Model for Remote Sensing. |
+|[UEMM-Air](https://github.com/1e12Leon/UEMM-Air)<a href='[https://github.com/ChenDelong1999/RemoteCLIP](https://github.com/1e12Leon/UEMM-Air)'><img src='https://img.shields.io/github/stars/1e12Leon/UEMM-Air?style=social' /></a> | A Synthetic Multi-modal Dataset for Unmanned Aerial Vehicle Object Detection. |
 |[ProbDet](https://github.com/UAVDetectionGroup/ProbEn)<a href='https://github.com/UAVDetectionGroup/ProbEn'><img src='https://img.shields.io/github/stars/1e12Leon/ProbDet?style=social' /></a> | Multi-modal target detection based on probability decision fusion. |
 |[UAV-LODBoost](https://github.com/UAVDetectionGroup/UAV-LODBoost)<a href='https://github.com/UAVDetectionGroup/UAV-LODBoost'><img src='https://img.shields.io/github/stars/1e12Leon/UAV-LODBoost?style=social' /></a> | A User-Friendly Toolkit for UAV Light-weighting Object Detection. |
 |[SIFAD](https://github.com/HHU-AIM-Group/SIFAD)<a href='https://github.com/HHU-AIM-Group/SIFAD'><img src='https://img.shields.io/github/stars/1e12Leon/SIFAD?style=social' /></a> | Scale-Invariant Features Adversarial Disentanglement for UAV Object Detection. |
