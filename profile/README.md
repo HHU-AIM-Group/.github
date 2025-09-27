@@ -9,7 +9,8 @@
 |[ProbDet](https://github.com/UAVDetectionGroup/ProbEn)<a href='https://github.com/UAVDetectionGroup/ProbEn'><img src='https://img.shields.io/github/stars/1e12Leon/ProbDet?style=social' /></a> | Multi-modal target detection based on probability decision fusion. |
 |[UAV-LODBoost](https://github.com/UAVDetectionGroup/UAV-LODBoost)<a href='https://github.com/UAVDetectionGroup/UAV-LODBoost'><img src='https://img.shields.io/github/stars/1e12Leon/UAV-LODBoost?style=social' /></a> | A User-Friendly Toolkit for UAV Light-weighting Object Detection. |
 |[SIFAD](https://github.com/HHU-AIM-Group/SIFAD)<a href='https://github.com/HHU-AIM-Group/SIFAD'><img src='https://img.shields.io/github/stars/1e12Leon/SIFAD?style=social' /></a> | Scale-Invariant Features Adversarial Disentanglement for UAV Object Detection. |
-
+|[RemoteSAM](https://github.com/1e12Leon/RemoteSAM)<a href='https://github.com/1e12Leon/RemoteSAM'><img src='https://img.shields.io/github/stars/1e12Leon/RemoteSAM?style=social' /></a> | Towards Segment Anything for Earth Observation. |
+|[RemoteReasoner](https://github.com/1e12Leon/RemoteReasoner)<a href='https://github.com/1e12Leon/RemoteReasoner'><img src='https://img.shields.io/github/stars/1e12Leon/RemoteReasoner?style=social' /></a> | Towards Unifying Geospatial Reasoning Workflow. |
 
 
 If you have questions about this page, please contact liangyao@hhu.edu.cn.
