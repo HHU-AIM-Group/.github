@@ -5,12 +5,17 @@
 | name | description | 
 | ---- | ----------- |
 |[RemoteCLIP](https://github.com/ChenDelong1999/RemoteCLIP)<a href='https://github.com/ChenDelong1999/RemoteCLIP'><img src='https://img.shields.io/github/stars/ChenDelong1999/RemoteCLIP?style=social' /></a> | A Vision Language Foundation Model for Remote Sensing. |
-|[UEMM-Air](https://github.com/1e12Leon/UEMM-Air)<a href='[https://github.com/ChenDelong1999/RemoteCLIP](https://github.com/1e12Leon/UEMM-Air)'><img src='https://img.shields.io/github/stars/1e12Leon/UEMM-Air?style=social' /></a> | A Synthetic Multi-modal Dataset for Unmanned Aerial Vehicle Object Detection. |
-|[ProbDet](https://github.com/UAVDetectionGroup/ProbEn)<a href='https://github.com/UAVDetectionGroup/ProbEn'><img src='https://img.shields.io/github/stars/1e12Leon/ProbDet?style=social' /></a> | Multi-modal target detection based on probability decision fusion. |
-|[UAV-LODBoost](https://github.com/UAVDetectionGroup/UAV-LODBoost)<a href='https://github.com/UAVDetectionGroup/UAV-LODBoost'><img src='https://img.shields.io/github/stars/1e12Leon/UAV-LODBoost?style=social' /></a> | A User-Friendly Toolkit for UAV Light-weighting Object Detection. |
-|[SIFAD](https://github.com/HHU-AIM-Group/SIFAD)<a href='https://github.com/HHU-AIM-Group/SIFAD'><img src='https://img.shields.io/github/stars/1e12Leon/SIFAD?style=social' /></a> | Scale-Invariant Features Adversarial Disentanglement for UAV Object Detection. |
 |[RemoteSAM](https://github.com/1e12Leon/RemoteSAM)<a href='https://github.com/1e12Leon/RemoteSAM'><img src='https://img.shields.io/github/stars/1e12Leon/RemoteSAM?style=social' /></a> | Towards Segment Anything for Earth Observation. |
 |[RemoteReasoner](https://github.com/1e12Leon/RemoteReasoner)<a href='https://github.com/1e12Leon/RemoteReasoner'><img src='https://img.shields.io/github/stars/1e12Leon/RemoteReasoner?style=social' /></a> | Towards Unifying Geospatial Reasoning Workflow. |
+|[RemoteAgent](https://github.com/1e12Leon/RemoteAgent)<a href='https://github.com/1e12Leon/RemoteAgent'><img src='https://img.shields.io/github/stars/1e12Leon/RemoteAgent?style=social' /></a> | Bridging Vague Human Intents and Earth Observation with RL-based Agentic MLLMs. |
+|[RemoteTrimmer](https://github.com/1e12Leon/RemoteTrimmer)<a href='https://github.com/1e12Leon/RemoteTrimmer'><img src='https://img.shields.io/github/stars/1e12Leon/RemoteTrimmer?style=social' /></a> | Adaptive Structural Pruning for Remote Sensing Image Classification. |
+|[UEMM-Air](https://github.com/1e12Leon/UEMM-Air)<a href='https://github.com/1e12Leon/UEMM-Air'><img src='https://img.shields.io/github/stars/1e12Leon/UEMM-Air?style=social' /></a> | A Synthetic Multi-modal Dataset for Unmanned Aerial Vehicle Object Detection. |
+|[AirNavigation](https://github.com/1e12Leon/AirNavigation)<a href='https://github.com/1e12Leon/AirNavigation'><img src='https://img.shields.io/github/stars/1e12Leon/AirNavigation?style=social' /></a> | Let UAV Navigation Tells Its Own Story. |
+|[MLVLM-FSL](https://github.com/HUOUO7/MLVLM-FSL)<a href='https://github.com/HUOUO7/MLVLM-FSL'><img src='https://img.shields.io/github/stars/HUOUO7/MLVLM-FSL?style=social' /></a> | Making Large Vision Language Models to be Good Few-shot Learners. |
+|[ProbDet](https://github.com/UAVDetectionGroup/ProbEn)<a href='https://github.com/UAVDetectionGroup/ProbEn'><img src='https://img.shields.io/github/stars/1e12Leon/ProbDet?style=social' /></a> | Multi-modal target detection based on probability decision fusion. |
+|[UAV-LODBoost](https://github.com/UAVDetectionGroup/UAV-LODBoost)<a href='https://github.com/UAVDetectionGroup/UAV-LODBoost'><img src='https://img.shields.io/github/stars/1e12Leon/UAV-LODBoost?style=social' /></a> | A User-Friendly Toolkit for UAV Light-weighting Object Detection. |
+|[SIFDAL](https://github.com/1e12Leon/SIFDAL)<a href='https://github.com/1e12Leon/SIFDAL'><img src='https://img.shields.io/github/stars/1e12Leon/SIFDAL?style=social' /></a> | Boost UAV-based Object Detection via Scale-Invariant Feature Disentanglement and Adversarial Learning. |
+
 
 
 If you have questions about this page, please contact liangyao@hhu.edu.cn.
